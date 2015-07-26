@@ -1,1 +1,11 @@
-# .atom_packages
+```
+
+atom-beautify
+file-icons
+linter
+linter-eslint
+minimap
+react
+
+
+```
