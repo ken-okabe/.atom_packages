@@ -1,6 +1,6 @@
 ```
 
-atom-beautify
+esformatter
 file-icons
 linter
 linter-eslint
